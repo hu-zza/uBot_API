@@ -17,9 +17,9 @@ The API documentation of the uBot_firmware.
 ## POST
   
 - __/command__  
-- __/home/__[FOLDER][FOLDER]__/__[file][file]
+- __/home/__[FOLDER][FOLDER]__/__[FILE][FILE]
 - __/log__
-- __/program/__[FOLDER][FOLDER]__/__[file][file]
+- __/program/__[folder][folder]__/__[file][file]
 - __/root__  
   
   
