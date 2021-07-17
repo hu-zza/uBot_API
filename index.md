@@ -7,6 +7,7 @@ The API documentation of the uBot_firmware.
 - /
 - __/command/__[command][command]
 - __/etc/__[module][module]__/__[attribute][attribute]
+- __/future/__[folder][folder]__/__[file][file]
 - __/home/__[folder][folder]__/__[file][file]
 - __/log/__[module][module]__/__[file][file]
 - __/program/__[folder][folder]__/__[file][file]__/__[action][action]
@@ -31,6 +32,7 @@ The API documentation of the uBot_firmware.
   
 ## DELETE
   
+- __/future/__[folder][folder]__/__[file][file]
 - __/home/__[folder][folder]__/__[file][file]
 - __/log/__[module][module]__/__[file][file]
 - __/program/__[folder][folder]__/__[file][file]
