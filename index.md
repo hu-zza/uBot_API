@@ -55,4 +55,4 @@ The API documentation of the uBot_firmware.
 
 [MODULE]: / "Module"
 
-[TICKET-NR]: / "Ticket nr"
+[TICKET_NR]: / "Ticket nr"
